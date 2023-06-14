@@ -5,13 +5,13 @@ import useThemeStorage from "@/utils/use-theme-storage";
 
 export const AVAILABLE_THEMES = {
   light: {
-    name: "Light",
-    id: "light",
+    name: "Business",
+    id: "business",
     Icon: SunIcon,
   },
   dark: {
-    name: "Dark",
-    id: "dark",
+    name: "Light",
+    id: "corporate",
     Icon: MoonIcon,
   },
   night: {
